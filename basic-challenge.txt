@@ -1,0 +1,5 @@
+1. Download this code
+  Bonus: use `git clone` command
+2. Open terminal
+3. `cd game`
+4. `python -m SimpleHTTPServer 8080` OR `npm install -g http-server` and run just `http-server`
